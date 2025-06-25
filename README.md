@@ -9,6 +9,7 @@
     * [🗃️ Modules (Domain/Module-Based)](#-modules-domainmodule-based)
     * [🍰 Feature‑Sliced Design (Фиче-ориентированная методология)](#-featuresliced-design-фиче-ориентированная-методология)
     * [🧩 Microfrontends](#-microfrontends)
+  * [Barrel file pattern или Public API pattern](#barrel-file-pattern-или-public-api-pattern)
   * [Примеры и ссылки](#примеры-и-ссылки)
     * [🗂️ Flat Approach (Плоская структура)](#-flat-approach-плоская-структура-1)
     * [🧩 Atomic Design](#-atomic-design-1)
