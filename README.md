@@ -9,6 +9,11 @@
     * [🗃️ Modules (Domain/Module-Based)](#-modules-domainmodule-based)
     * [🍰 Feature‑Sliced Design (Фиче-ориентированная методология)](#-featuresliced-design-фиче-ориентированная-методология)
     * [🧩 Microfrontends](#-microfrontends)
+  * [Примеры проекта Todo list](#примеры-проекта-todo-list)
+    * [🗂️ Flat Approach (Плоская структура)](#-flat-approach-плоская-структура-1)
+    * [🧩 Atomic Design](#-atomic-design-1)
+    * [🗃️ Modules (Domain/Module-Based)](#-modules-domainmodule-based-1)
+    * [🍰 Feature‑Sliced Design (Фиче-ориентированная методология)](#-featuresliced-design-фиче-ориентированная-методология-1)
   * [✅ Архитектурный чеклист на примере React/TypeScript](#-архитектурный-чеклист-на-примере-reacttypescript)
 <!-- TOC -->
 
