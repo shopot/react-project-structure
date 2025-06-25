@@ -1,7 +1,7 @@
-# React project structure
+# Frontend project structure
 
 <!-- TOC -->
-* [React project structure](#react-project-structure)
+* [Frontend project structure](#frontend-project-structure)
   * [🗂️ Flat Approach (Плоская структура)](#-flat-approach-плоская-структура)
   * [🧩 Atomic Design](#-atomic-design)
   * [🗃️ Modules (Domain/Module-Based)](#-modules-domainmodule-based)
